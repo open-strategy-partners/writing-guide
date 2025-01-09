@@ -1,12 +1,25 @@
-# **About Us**
+# The OSP Writing and Editing Guide
+
+Who we are and how we write. Brought to you by [Open Strategy Partners](https://openstrategypartners.com/)
+
+## Content
+
+* [About us](#about)
+* [This Guide is for You](#you)
+* [Our Values and Character](#values)  
+* [Writing Principles & Guidelines](#principles)  
+* [Writing Workflow](#workflow)  
+* [Editing Principles & Guidelines](#editing)
+
+## <a id="about" />**About Us**
 
 OSP bridges the tech-business gap, translates complexity to business value, and helps high-value organizations communicate effectively. Our Authentic Communication Framework encompasses our guiding principles. [Read more about our principles, team, and manifesto](https://openstrategypartners.com/about-us/).
 
-## **This Guide is for You**
+## <a id="you" />**This Guide is for You**
 
 This guide is for OSP team members and anyone who wants to learn how we work. We created structures, workflows, and processes to help us communicate authentically — on behalf of our clients and ourselves. This guide is a living reference to help us work together, use, improve OSP’s methodologies, and help others.
 
-## **Our Values: Empathy, Clarity, Trust**
+## <a id="values" />**Our Values: Empathy, Clarity, Trust**
 
 We see that it is hard for many companies to produce content, especially around technical products and services, that is both compelling to read and technically accurate. 
 
@@ -77,7 +90,7 @@ Two key ways you can establish trust with your audience when you’re writing:
 
 Read more on OSP.com: [Ten Ways to Build Better Communications with Trust](https://openstrategypartners.com/blog/ten-ways-to-build-better-communications-with-trust/)
 
-## **Writing Principles & Guidelines**
+## <a id="principles" />**Writing Principles & Guidelines**
 
 ### **Narrative structure and logical rigor** 
 
@@ -327,7 +340,7 @@ Examples
 
 #### **Use inclusive language**
 
-Be inclusive. Our goal is to help readers feel respected and welcomed. Inclusive language demonstrates empathy for readers. Non-inclusive language shows prejudice, bias, discrimination, or a lack of sensitivity. And as we said under [Use non-violent language](https://docs.google.com/document/d/1w9afVLk0sXGAZ9MwjoM7CcjxA4aL1U5c7p-QosbWnC4/edit#heading=h.2p2csry), “We communicate to connect.” Non-violent language helps create and strengthen connections. Violent language separates, categorizes, and destroys.
+Be inclusive. Our goal is to help readers feel respected and welcomed. Inclusive language demonstrates empathy for readers. Non-inclusive language shows prejudice, bias, discrimination, or a lack of sensitivity. And as we said under [Use non-violent language](#use-non-violent-language), “We communicate to connect.” Non-violent language helps create and strengthen connections. Violent language separates, categorizes, and destroys.
 
 Ask and respect. If you’re writing about a person, ask the subject about how they prefer to be identified. The general rule is person-centered language, but it’s not true in all cases. It’s best to ask and inform the reader of the subject’s preferences. See the Talking about people section of the [NICE style guide](https://www.nice.org.uk/corporate/ecd1/chapter/talking-about-people-including-deaf-and-blind-age-faith-family-background-gender).
 
@@ -491,7 +504,7 @@ User links as citations or sources. We use links to other sources for various re
 * Case studies are [the second most popular content asset with B2B content marketers](https://contentmarketinginstitute.com/wp-content/uploads/2017/09/2018_B2B_Research_FINAL.pdf).  
 * [73% of BSB marketers](https://contentmarketinginstitute.com/wp-content/uploads/2017/09/2018_B2B_Research_FINAL.pdf) use case studies in their content marketing.
 
-## **Writing Workflow**
+## <a id="workflow" />**Writing Workflow**
 
 When you need to produce content regularly, you can’t always rely on inspiration to hit when you need it.  At OSP, we trust processes over creativity. 
 
@@ -506,7 +519,7 @@ Collaborate: We strongly recommend working in an online, medium that auto-saves 
   * Use “Suggesting” when editing someone else’s work  
   * Use comments to provide feedback and make suggestions
 
-Reuse: We keep documented templates for common content deliverables (case studies, blog posts, landing pages, etc.) in a Google Docs [templates gallery](https://docs.google.com/document/u/0/?ftv=1&folder=0AIJLg76jaymSUk9PVA&tgif=d). These give us a head start, be consistent, and teach, onboard, and share how we approach content structure. 
+Reuse: We keep documented templates for common content deliverables (case studies, blog posts, landing pages, etc.) in a Google Docs templates gallery. These give us a head start, be consistent, and teach, onboard, and share how we approach content structure. 
 
 ### **Step 0: Ideas and Inspiration**
 
@@ -642,7 +655,7 @@ Tip: Quote approval and technical review are essential before publication, but c
 
 After approval, you can move your post to the publishing pipeline. This depends on the client’s publishing process. It varies from a simple hand-off to coordinating with one or more contacts and teams who handle publishing. Sometimes, we’re even responsible for posting content onto various platforms for our clients.
 
-## **Editing Principles & Guidelines**
+## <a id="editing" />**Editing Principles & Guidelines**
 
 As writers and editors coming together at Open Strategy Partners, we have different backgrounds and experiences, but many of us have lived through the “traditional” writer/editor relationship. It’s a combination of a potentially distant and hierarchical relationship between the authority figure of the editor and the subservient writer. Communication may be minimal, cryptic, or nonexistent. It’s a series of “black boxes,” siloed processes lacking transparency, drafts turned into unrecognizable published articles. And worst of all, little chance for learning or improvement for writers or editors. It’s the opposite of what OSP is about.
 
@@ -733,7 +746,7 @@ We have developed a collection of short editing marks, or codes, that we use to 
 * C. Style & Phrasing  
 * D. Choice of Words
 
-See the [OSP Editing Codes](https://docs.google.com/spreadsheets/d/1hpcDMyhPjL91O23g7dihKltCgCdi6CPvbhijndfgA2s/edit#gid=1394586721).
+See the [OSP Editing Codes](https://github.com/open-strategy-partners/editing-codes).
 
 When editing someone’s work, the first “positivity” pass we take is to mark things we like with “++” and the relevant code (e.g. \++CRISP): colorful word choices, solid writing, use of our principles. This specific praise reinforces positive aspects, which builds trust. It also reminds writers and editors to keep these pieces when making changes later in the process.
 
