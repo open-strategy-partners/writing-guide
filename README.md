@@ -2,7 +2,7 @@
 
 A living reference about OSP’s tools, structures, workflows, and processes. Brought to you by Open Strategy Partners.
 
-[Level-up my writing!](https://github.com/open-strategy-partners/product-comms-guide/blob/main/writing-guide.md)
+[Level-up my writing!](hhttps://github.com/open-strategy-partners/writing-guide/blob/main/writing-guide.md)
 
 ## Who is this for?
 
